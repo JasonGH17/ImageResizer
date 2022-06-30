@@ -1,0 +1,17 @@
+{
+	"name": "imgresize",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node app.js -d",
+		"start:silent": "node app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"image-size": "^1.0.1",
+		"sharp": "^0.30.7"
+	}
+}
